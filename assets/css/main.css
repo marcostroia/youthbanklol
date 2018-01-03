@@ -34,6 +34,7 @@ body {
     right: 25px;
     font-size: 36px;
     margin-left: 50px;
+    transition: 0.5s;
 }
 
 @media screen and (max-height: 450px) {
