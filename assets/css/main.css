@@ -113,3 +113,26 @@ textarea {
 #search{
   width: 70%;
 }
+li{
+  padding: 5px;
+}
+h1{
+  color:red;
+}
+li a:link {
+    text-decoration: none;
+    color:white;
+}
+
+li a:visited {
+    text-decoration: none;
+}
+
+li a:hover {
+    text-decoration: none;
+    color:pink;
+}
+
+li a:active {
+    text-decoration: none;
+}
