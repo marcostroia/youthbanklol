@@ -36,6 +36,10 @@ body {
     margin-left: 50px;
     transition: 0.5s;
 }
+.main{
+    position: fixed;
+    transition: 0.5s;
+}
 
 @media screen and (max-height: 450px) {
   .sidenav {padding-top: 15px;}
